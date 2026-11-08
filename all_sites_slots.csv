@@ -1,10 +1,9 @@
 site_slug,date,day_active,start_time,end_time,professional_name,professional_id,gender,site_id,session_id
-aberdeen,Monday 9 November 2026,True,09:30,10:15,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
-aberdeen,Monday 9 November 2026,True,10:15,11:00,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
-aberdeen,Monday 9 November 2026,True,11:00,11:45,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
-aberdeen,Monday 9 November 2026,True,11:45,12:30,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
-aberdeen,Monday 9 November 2026,True,12:30,13:15,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
-aberdeen,Monday 9 November 2026,True,13:15,14:00,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
+aberdeen,Monday 9 November 2026,True,09:45,10:30,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
+aberdeen,Monday 9 November 2026,True,10:30,11:15,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
+aberdeen,Monday 9 November 2026,True,11:15,12:00,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
+aberdeen,Monday 9 November 2026,True,12:00,12:45,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
+aberdeen,Monday 9 November 2026,True,12:45,13:30,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sqzMAA
 aberdeen,Monday 9 November 2026,True,16:00,16:45,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WTw0000047sr0MAA
 aberdeen,Tuesday 10 November 2026,True,10:30,11:15,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WPz00000KXRveMAH
 aberdeen,Tuesday 10 November 2026,True,11:15,12:00,Mrs Jennifer Dunbar,001w000001L7d6sAAB,Female,a0O2000000AeJ9zEAF,a0WPz00000KXRveMAH
@@ -83,6 +82,9 @@ london-battersea,Friday 20 November 2026,True,13:45,14:30,Mr Ali Momeni Pour,001
 london-battersea,Friday 20 November 2026,True,15:30,16:15,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpCtMAJ
 london-battersea,Friday 20 November 2026,True,16:15,17:00,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpCtMAJ
 london-battersea,Friday 20 November 2026,True,17:30,18:15,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpCtMAJ
+london-battersea,Saturday 21 November 2026,True,09:00,09:45,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpDDMAZ
+london-battersea,Saturday 21 November 2026,True,09:45,10:30,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpDDMAZ
+london-battersea,Saturday 21 November 2026,True,12:30,13:15,Mr Ali Momeni Pour,001Pz00000wUTEhIAO,Male,a0O2000000AeJB6EAN,a0WPz00000VdpDXMAZ
 london-bloomsbury,Thursday 12 November 2026,True,15:30,16:15,Mr Thomas Moore,0014J00000mgzI9QAI,Male,a0Ow000000CH7grEAD,a0WPz00000Ve66bMAB
 london-bloomsbury,Thursday 19 November 2026,True,11:00,11:45,Mr Thomas Moore,0014J00000mgzI9QAI,Male,a0Ow000000CH7grEAD,a0WPz00000VdbraMAB
 london-bloomsbury,Thursday 19 November 2026,True,15:30,16:15,Mr Thomas Moore,0014J00000mgzI9QAI,Male,a0Ow000000CH7grEAD,a0WPz00000Ve66dMAB
@@ -106,7 +108,6 @@ bolton,Thursday 19 November 2026,True,10:15,11:00,Mr Paul Staines,001w000001K64h
 bolton,Thursday 19 November 2026,True,11:00,11:45,Mr Paul Staines,001w000001K64h9AAB,Male,a0Ow000000KKrHeEAL,a0WPz00000XMGWVMA5
 bolton,Thursday 19 November 2026,True,13:00,13:45,Mr Paul Staines,001w000001K64h9AAB,Male,a0Ow000000KKrHeEAL,a0WPz00000XMGWbMAP
 bolton,Thursday 19 November 2026,True,13:45,14:30,Mr Paul Staines,001w000001K64h9AAB,Male,a0Ow000000KKrHeEAL,a0WPz00000XMGWbMAP
-brentwood,Monday 9 November 2026,True,13:30,14:15,Mrs Tania (Physio) Correia,001Pz00000YqudfIAB,Female,a0O2000000AeJHQEA3,a0WPz00000K3zJgMAJ
 brighton,Tuesday 10 November 2026,True,09:30,10:15,Mrs Nadia Tabak,0014J00000yylHUQAY,Female,a0O2000000AeJHREA3,a0WTw000003pv93MAA
 brighton,Wednesday 11 November 2026,True,13:00,13:45,Mrs Nadia Tabak,0014J00000yylHUQAY,Female,a0O2000000AeJHREA3,a0WTw000003pv94MAA
 brighton,Wednesday 11 November 2026,True,18:30,19:15,Mrs Nadia Tabak,0014J00000yylHUQAY,Female,a0O2000000AeJHREA3,a0WTw000003pv94MAA
@@ -134,9 +135,8 @@ bristol-clifton,Wednesday 18 November 2026,True,09:30,10:15,Mrs Claire Turner,00
 bristol-clifton,Wednesday 18 November 2026,True,10:15,11:00,Mrs Claire Turner,001Pz000009uarkIAA,Female,a0O2000000AeJBqEAN,a0WPz00000XM6LYMA1
 bristol-clifton,Wednesday 18 November 2026,True,11:00,11:45,Mrs Claire Turner,001Pz000009uarkIAA,Female,a0O2000000AeJBqEAN,a0WPz00000XM6LYMA1
 bristol-clifton,Wednesday 18 November 2026,True,12:15,13:00,Mrs Claire Turner,001Pz000009uarkIAA,Female,a0O2000000AeJBqEAN,a0WPz00000XM6LYMA1
-bristol-clifton,Friday 20 November 2026,True,13:30,14:15,Mr Will Astill,001Pz00000yLC6xIAG,Male,a0O2000000AeJBqEAN,a0WPz00000WzrjXMAR
-bristol-clifton,Friday 20 November 2026,True,14:15,15:00,Mr Will Astill,001Pz00000yLC6xIAG,Male,a0O2000000AeJBqEAN,a0WPz00000WzrjXMAR
-bristol-clifton,Friday 20 November 2026,True,15:00,15:45,Mr Will Astill,001Pz00000yLC6xIAG,Male,a0O2000000AeJBqEAN,a0WPz00000WzrjXMAR
+bristol-clifton,Friday 20 November 2026,True,14:00,14:45,Mr Will Astill,001Pz00000yLC6xIAG,Male,a0O2000000AeJBqEAN,a0WPz00000WzrjXMAR
+bristol-clifton,Friday 20 November 2026,True,14:45,15:30,Mr Will Astill,001Pz00000yLC6xIAG,Male,a0O2000000AeJBqEAN,a0WPz00000WzrjXMAR
 bristol-north,Wednesday 11 November 2026,True,10:00,10:45,Mrs Claire Kohn,0012000000z9qrbAAA,Female,a0Ow000000KKrHiEAL,a0WPz00000UI1uBMAT
 bristol-north,Friday 20 November 2026,True,08:00,08:45,Mr Sam Harrison,001Pz000012UbIOIA0,Male,a0Ow000000KKrHiEAL,a0WPz00000SY5soMAD
 bromley,Monday 16 November 2026,True,09:30,10:15,Ms Ashlee Otaru,0014J00000qUpSBQA0,Female,a0O2000000AeJBtEAN,a0WPz00000XMHdYMAX
@@ -183,7 +183,6 @@ cheltenham,Thursday 19 November 2026,True,14:15,15:00,Mr Iestyn Rees,001w000001B
 cheltenham,Thursday 19 November 2026,True,15:00,15:45,Mr Iestyn Rees,001w000001BXK68AAH,Male,a0O2000000AeJHTEA3,a0WPz00000KVf25MAD
 cheltenham,Friday 20 November 2026,True,15:00,15:45,Mr Huw Dimond,0014J00000Fz9YpQAJ,Male,a0O2000000AeJHTEA3,a0WPz00000Mq2zFMAR
 cheltenham,Friday 20 November 2026,True,15:45,16:30,Mr Huw Dimond,0014J00000Fz9YpQAJ,Male,a0O2000000AeJHTEA3,a0WPz00000Mq2zFMAR
-chester,Friday 13 November 2026,True,14:00,14:45,Mrs Emily Procter,001w0000018t6U1AAI,Female,a0Ow000000EqzH3EAJ,a0WPz00000JsoBaMAJ
 chichester,Tuesday 10 November 2026,True,08:30,09:15,Miss Neha Apte,001Pz00000B342aIAB,Female,a0O2000000AeJCNEA3,a0WTw000003lzeJMAQ
 chichester,Tuesday 10 November 2026,True,14:15,15:00,Miss Neha Apte,001Pz00000B342aIAB,Female,a0O2000000AeJCNEA3,a0WTw000003lzhVMAQ
 chichester,Wednesday 11 November 2026,True,08:15,09:00,Mr James Silk,001Pz00000hCzBrIAK,Male,a0O2000000AeJCNEA3,a0WPz00000VyFP9MAN
@@ -347,7 +346,6 @@ didsbury,Friday 20 November 2026,True,12:30,13:15,Mr Michael Eachus,001Pz00000zG
 didsbury,Friday 20 November 2026,True,13:15,14:00,Mr Michael Eachus,001Pz00000zGcBIIA0,Male,a0Ow000000KKrHfEAL,a0WTw000003ZoRhMAK
 ealing,Tuesday 10 November 2026,True,13:00,13:45,Mr Panagiotis Michaleas,0014J00000I8VPYQA3,Male,a0Ow000000KKqUyEAL,a0WPz00000VHHisMAH
 ealing,Tuesday 10 November 2026,True,13:45,14:30,Mr Panagiotis Michaleas,0014J00000I8VPYQA3,Male,a0Ow000000KKqUyEAL,a0WPz00000VHHisMAH
-edinburgh,Wednesday 18 November 2026,True,11:15,12:00,Mr Alex (treats 10+) Howarth,0014J00000Ap6KsQAJ,Male,a0O2000000AfgGkEAJ,a0WPz00000XSTLsMAP
 edinburgh,Wednesday 18 November 2026,True,13:00,13:45,Mr Kern Tynan,001Tw00000wBdkdIAC,Male,a0O2000000AfgGkEAJ,a0WTw000003opxQMAQ
 edinburgh,Wednesday 18 November 2026,True,13:45,14:30,Mr Kern Tynan,001Tw00000wBdkdIAC,Male,a0O2000000AfgGkEAJ,a0WTw000003opxQMAQ
 edinburgh,Wednesday 18 November 2026,True,13:00,13:45,Mr Alex (treats 10+) Howarth,0014J00000Ap6KsQAJ,Male,a0O2000000AfgGkEAJ,a0WPz00000XSTMGMA5
@@ -396,7 +394,6 @@ glasgow-hospital,Tuesday 17 November 2026,True,13:45,14:30,Miss Claire McGonigle
 glasgow-hospital,Tuesday 17 November 2026,True,16:00,16:45,Miss Claire McGonigle,001Pz000014lkeBIAQ,Female,a0O2000000AeJHXEA3,a0WTw0000048Ed1MAE
 glasgow-hospital,Wednesday 18 November 2026,True,08:30,09:15,Mrs Claire Beckett,00120000012fi2jAAA,Female,a0O2000000AeJHXEA3,a0WPz00000U5wIjMAJ
 glasgow-hospital,Wednesday 18 November 2026,True,09:15,10:00,Mrs Claire Beckett,00120000012fi2jAAA,Female,a0O2000000AeJHXEA3,a0WPz00000U5wIjMAJ
-gloucester,Monday 9 November 2026,True,15:45,16:30,Mr Iestyn Rees,001w000001BXK68AAH,Male,a0Ow000000EqzH6EAJ,a0WPz00000HMppDMAT
 gloucester,Tuesday 10 November 2026,True,09:30,10:15,Mr Iestyn Rees,001w000001BXK68AAH,Male,a0Ow000000EqzH6EAJ,a0WPz00000HMpq2MAD
 gloucester,Tuesday 10 November 2026,True,10:15,11:00,Mr Iestyn Rees,001w000001BXK68AAH,Male,a0Ow000000EqzH6EAJ,a0WPz00000HMpq2MAD
 gloucester,Tuesday 10 November 2026,True,12:15,13:00,Mr Iestyn Rees,001w000001BXK68AAH,Male,a0Ow000000EqzH6EAJ,a0WPz00000HMpq2MAD
@@ -434,10 +431,9 @@ gosforth,Thursday 19 November 2026,True,08:30,09:15,Mr Robert Salter,0014J00000j
 gosforth,Thursday 19 November 2026,True,09:15,10:00,Mr Robert Salter,0014J00000j2S9GQAU,Male,a0Ow000000CI9UNEA1,a0WPz00000XN3TuMAL
 gosforth,Thursday 19 November 2026,True,14:00,14:45,Mr Robert Salter,0014J00000j2S9GQAU,Male,a0Ow000000CI9UNEA1,a0WPz00000XN3UAMA1
 guildford-gym,Tuesday 17 November 2026,True,09:30,10:15,Miss Stephanie Wilkins,001w000001DNStWAAX,Female,a0Ow000000EqNiyEAF,a0WPz00000PjvvrMAB
-guildford,Thursday 12 November 2026,True,13:30,14:15,Mrs Megan (MSK &  Pelvic Health) Seheult,001w0000016dWuUAAU,Female,a0O2000000AeJHYEA3,a0WPz00000SScnFMAT
 guiseley,Wednesday 11 November 2026,True,10:30,11:15,Miss Ruth Jones,0014J00000bduwOQAQ,Female,a0Ow000000CH7guEAD,a0WTw000004BD4TMAW
-guiseley,Wednesday 11 November 2026,True,13:00,13:45,Miss Ruth Jones,0014J00000bduwOQAQ,Female,a0Ow000000CH7guEAD,a0WTw000004BD4UMAW
 guiseley,Wednesday 11 November 2026,True,15:15,16:00,Miss Ruth Jones,0014J00000bduwOQAQ,Female,a0Ow000000CH7guEAD,a0WTw000004BD4UMAW
+guiseley,Monday 16 November 2026,True,11:30,12:15,Ms Suzanne Turner,001w000001YAb3BAAT,Female,a0Ow000000CH7guEAD,a0WTw000003YFUuMAO
 guiseley,Tuesday 17 November 2026,True,14:45,15:30,Ms Suzanne Turner,001w000001YAb3BAAT,Female,a0Ow000000CH7guEAD,a0WTw000003YGK2MAO
 guiseley,Wednesday 18 November 2026,True,08:00,08:45,Miss Ruth Jones,0014J00000bduwOQAQ,Female,a0Ow000000CH7guEAD,a0WTw000004BbuoMAC
 guiseley,Wednesday 18 November 2026,True,08:45,09:30,Miss Ruth Jones,0014J00000bduwOQAQ,Female,a0Ow000000CH7guEAD,a0WTw000004BbuoMAC
@@ -454,7 +450,6 @@ harrogate,Thursday 12 November 2026,True,14:15,15:00,Miss Victoria Langley,0014J
 harrogate,Thursday 12 November 2026,True,15:00,15:45,Miss Victoria Langley,0014J00000dmbkSQAQ,Female,a0O2000000AeJEPEA3,a0WTw000003yltcMAA
 harrogate,Friday 13 November 2026,True,10:00,10:45,Miss Victoria Langley,0014J00000dmbkSQAQ,Female,a0O2000000AeJEPEA3,a0WPz00000XT1Z0MAL
 harrogate,Friday 13 November 2026,True,10:45,11:30,Miss Victoria Langley,0014J00000dmbkSQAQ,Female,a0O2000000AeJEPEA3,a0WPz00000XT1Z0MAL
-harrogate,Friday 13 November 2026,True,14:30,15:15,Miss Victoria Langley,0014J00000dmbkSQAQ,Female,a0O2000000AeJEPEA3,a0WPz00000XT1Z3MAL
 harrogate,Friday 13 November 2026,True,15:15,16:00,Miss Victoria Langley,0014J00000dmbkSQAQ,Female,a0O2000000AeJEPEA3,a0WPz00000XT1Z3MAL
 harrogate,Monday 16 November 2026,True,14:30,15:15,Mr James Pacey,00120000010rxehAAA,Male,a0O2000000AeJEPEA3,a0WPz00000XMFiNMAX
 harrogate,Monday 16 November 2026,True,15:15,16:00,Mr James Pacey,00120000010rxehAAA,Male,a0O2000000AeJEPEA3,a0WPz00000XMFiNMAX
@@ -493,7 +488,6 @@ ilford,Wednesday 18 November 2026,True,16:00,16:45,Mr Terry McRae,0014J00000supE
 ilford,Wednesday 18 November 2026,True,17:30,18:15,Mr Terry McRae,0014J00000supEDQAY,Male,a0Ow000000EqzH4EAJ,a0WPz00000TVfPpMAL
 ilford,Wednesday 18 November 2026,True,18:15,19:00,Mr Terry McRae,0014J00000supEDQAY,Male,a0Ow000000EqzH4EAJ,a0WPz00000TVfPpMAL
 islington-london,Monday 16 November 2026,True,12:00,12:45,Sebastien Marsh-Feiley,001Tw00000y038DIAQ,,a0Ow000000KKqUpEAL,a0WTw0000041bo4MAA
-islington-london,Monday 16 November 2026,True,13:00,13:45,Sebastien Marsh-Feiley,001Tw00000y038DIAQ,,a0Ow000000KKqUpEAL,a0WTw0000041bo4MAA
 islington-london,Monday 16 November 2026,True,13:45,14:30,Sebastien Marsh-Feiley,001Tw00000y038DIAQ,,a0Ow000000KKqUpEAL,a0WTw0000041bo4MAA
 islington-london,Monday 16 November 2026,True,16:00,16:45,Sebastien Marsh-Feiley,001Tw00000y038DIAQ,,a0Ow000000KKqUpEAL,a0WTw0000041bo8MAA
 islington-london,Monday 16 November 2026,True,16:45,17:30,Sebastien Marsh-Feiley,001Tw00000y038DIAQ,,a0Ow000000KKqUpEAL,a0WTw0000041bo8MAA
@@ -789,6 +783,9 @@ norwich,Tuesday 17 November 2026,True,18:00,18:45,Alaine Capalad,001Pz000017Oy6b
 norwich,Tuesday 17 November 2026,True,18:45,19:30,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7dwMAD
 norwich,Wednesday 18 November 2026,True,18:30,19:15,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7dxMAD
 norwich,Wednesday 18 November 2026,True,19:15,20:00,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7dxMAD
+norwich,Saturday 21 November 2026,True,08:30,09:15,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7e3MAD
+norwich,Saturday 21 November 2026,True,09:15,10:00,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7e3MAD
+norwich,Saturday 21 November 2026,True,11:30,12:15,Alaine Capalad,001Pz000017Oy6bIAC,Female,a0Ow000000CI0jmEAD,a0WPz00000XJ7e3MAD
 nottingham,Tuesday 10 November 2026,True,15:45,16:30,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKayMAH
 nottingham,Wednesday 11 November 2026,True,08:45,09:30,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFJrIMAX
 nottingham,Wednesday 11 November 2026,True,14:45,15:30,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKbAMAX
@@ -798,10 +795,10 @@ nottingham,Friday 13 November 2026,True,08:30,09:15,Mrs Natasha Alshishani,0014J
 nottingham,Friday 13 November 2026,True,10:15,11:00,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WPz00000XJsLIMA1
 nottingham,Friday 13 November 2026,True,11:00,11:45,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WPz00000XJsLIMA1
 nottingham,Friday 13 November 2026,True,14:45,15:30,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WPz00000XJsLVMA1
+nottingham,Tuesday 17 November 2026,True,08:30,09:15,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFJrJMAX
 nottingham,Tuesday 17 November 2026,True,11:15,12:00,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFJrJMAX
 nottingham,Tuesday 17 November 2026,True,09:30,10:15,Mrs Chloe Evans,001w000001YBV0IAAX,Female,a0O2000000AeJHLEA3,a0WPz00000VFJqnMAH
 nottingham,Tuesday 17 November 2026,True,13:30,14:15,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKazMAH
-nottingham,Tuesday 17 November 2026,True,14:15,15:00,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKazMAH
 nottingham,Tuesday 17 November 2026,True,15:30,16:15,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKazMAH
 nottingham,Tuesday 17 November 2026,True,16:15,17:00,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKazMAH
 nottingham,Tuesday 17 November 2026,True,17:00,17:45,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKazMAH
@@ -817,8 +814,7 @@ nottingham,Wednesday 18 November 2026,True,15:00,15:45,Mrs Carly Glazebrook,001w
 nottingham,Wednesday 18 November 2026,True,15:45,16:30,Mrs Carly Glazebrook,001w000001NjDG6AAN,Female,a0O2000000AeJHLEA3,a0WPz00000VFKbBMAX
 nottingham,Thursday 19 November 2026,True,08:30,09:15,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WTw000003YDItMAO
 nottingham,Thursday 19 November 2026,True,09:15,10:00,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WTw000003YDItMAO
-nottingham,Friday 20 November 2026,True,13:30,14:15,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WTw000003YDJ4MAO
-nottingham,Friday 20 November 2026,True,14:15,15:00,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WTw000003YDJ4MAO
+nottingham,Thursday 19 November 2026,True,13:30,14:15,Mrs Natasha Alshishani,0014J00000qSen5QAC,Female,a0O2000000AeJHLEA3,a0WTw000003YDJ3MAO
 london-paddington,Monday 9 November 2026,True,12:45,13:30,Mr Mirco Paldo,0014J00000qVtKkQAK,Male,a0O2000000AeJIPEA3,a0WPz00000SiSAWMA3
 london-paddington,Monday 9 November 2026,True,15:30,16:15,Mr Mirco Paldo,0014J00000qVtKkQAK,Male,a0O2000000AeJIPEA3,a0WPz00000SiSAmMAN
 london-paddington,Tuesday 10 November 2026,True,15:00,15:45,Mr Mirco Paldo,0014J00000qVtKkQAK,Male,a0O2000000AeJIPEA3,a0WPz00000SiSAGMA3
@@ -831,7 +827,6 @@ london-paddington,Thursday 12 November 2026,True,09:30,10:15,Mr Mirco Paldo,0014
 london-paddington,Monday 16 November 2026,True,09:00,09:45,Mr Tom Codrington,00120000010rxPXAAY,Male,a0O2000000AeJIPEA3,a0WPz00000Sc00hMAB
 london-paddington,Monday 16 November 2026,True,12:30,13:15,Mr Mirco Paldo,0014J00000qVtKkQAK,Male,a0O2000000AeJIPEA3,a0WPz00000SiSAXMA3
 london-paddington,Monday 16 November 2026,True,15:45,16:30,Mr Mirco Paldo,0014J00000qVtKkQAK,Male,a0O2000000AeJIPEA3,a0WPz00000SiSAnMAN
-london-paddington,Tuesday 17 November 2026,True,09:00,09:45,Mr Tom Codrington,00120000010rxPXAAY,Male,a0O2000000AeJIPEA3,a0WPz00000Sc00wMAB
 london-paddington,Tuesday 17 November 2026,True,09:45,10:30,Mr Tom Codrington,00120000010rxPXAAY,Male,a0O2000000AeJIPEA3,a0WPz00000Sc00wMAB
 london-paddington,Tuesday 17 November 2026,True,12:30,13:15,Mr Tom Codrington,00120000010rxPXAAY,Male,a0O2000000AeJIPEA3,a0WPz00000Sc1rDMAR
 london-paddington,Tuesday 17 November 2026,True,13:15,14:00,Mr Tom Codrington,00120000010rxPXAAY,Male,a0O2000000AeJIPEA3,a0WPz00000Sc1rDMAR
@@ -913,14 +908,12 @@ romford,Tuesday 17 November 2026,True,14:30,15:15,Mr Terry McRae,0014J00000supED
 romford,Tuesday 17 November 2026,True,15:15,16:00,Mr Terry McRae,0014J00000supEDQAY,Male,a0Ow000000KKqUwEAL,a0WPz00000JOs6tMAD
 romford,Tuesday 17 November 2026,True,17:30,18:15,Mr Terry McRae,0014J00000supEDQAY,Male,a0Ow000000KKqUwEAL,a0WPz00000JOs6tMAD
 rugby,Monday 16 November 2026,True,08:30,09:15,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy5MAD
-rugby,Tuesday 17 November 2026,True,11:15,12:00,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvyLMAT
 rugby,Tuesday 17 November 2026,True,14:30,15:15,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvydMAD
 rugby,Tuesday 17 November 2026,True,15:15,16:00,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvydMAD
 rugby,Wednesday 18 November 2026,True,08:00,08:45,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy6MAD
 rugby,Wednesday 18 November 2026,True,08:45,09:30,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy6MAD
 rugby,Wednesday 18 November 2026,True,09:30,10:15,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy6MAD
 rugby,Wednesday 18 November 2026,True,12:00,12:45,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvyVMAT
-rugby,Thursday 19 November 2026,True,11:30,12:15,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvyMMAT
 rugby,Thursday 19 November 2026,True,15:00,15:45,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvyeMAD
 rugby,Friday 20 November 2026,True,09:00,09:45,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy7MAD
 rugby,Friday 20 November 2026,True,09:45,10:30,Mr Devesh Chohan,0012X00001sDklvQAC,Male,a0Ow000000KKrHXEA1,a0WPz00000XLvy7MAD
@@ -1233,7 +1226,6 @@ hertford,Friday 20 November 2026,True,10:15,11:00,Mr Timothy Scully,001Tw00000x0
 hertford,Friday 20 November 2026,True,12:30,13:15,Mr Timothy Scully,001Tw00000x0eBZIAY,Male,a0O2000000AeJEeEAN,a0WTw000003uwuWMAQ
 hertford,Friday 20 November 2026,True,13:15,14:00,Mr Timothy Scully,001Tw00000x0eBZIAY,Male,a0O2000000AeJEeEAN,a0WTw000003uwuWMAQ
 hertford,Friday 20 November 2026,True,14:00,14:45,Mr Timothy Scully,001Tw00000x0eBZIAY,Male,a0O2000000AeJEeEAN,a0WTw000003uwuWMAQ
-birmingham-rubery,Monday 9 November 2026,True,15:15,16:00,Mrs Natasha Natrins,0014J00000fEiWmQAK,Female,a0O2000000AeJBHEA3,a0WPz00000K6GPuMAN
 birmingham-rubery,Monday 16 November 2026,True,18:45,19:30,Mrs Natasha Natrins,0014J00000fEiWmQAK,Female,a0O2000000AeJBHEA3,a0WPz00000K6GPvMAN
 birmingham-rubery,Wednesday 18 November 2026,True,09:00,09:45,Mrs Natasha Natrins,0014J00000fEiWmQAK,Female,a0O2000000AeJBHEA3,a0WPz00000PwFDeMAN
 birmingham-rubery,Wednesday 18 November 2026,True,09:45,10:30,Mrs Natasha Natrins,0014J00000fEiWmQAK,Female,a0O2000000AeJBHEA3,a0WPz00000PwFDeMAN
